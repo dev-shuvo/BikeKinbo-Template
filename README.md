@@ -24,7 +24,7 @@ Old bikes buy/sell marketplace template built with Bootstrap 5
 
 ## Preview
 
-[See live demo]()
+[See live demo](https://dev-shuvo.github.io/BikeKinbo-Template/)
 
 | ![](preview.png) |
 | ---------------- |
